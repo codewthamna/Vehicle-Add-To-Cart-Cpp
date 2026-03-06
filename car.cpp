@@ -13,8 +13,8 @@ int enter;
     int rickshaw=0;
 while(true){
     
-    cout<<"PRESS 1 TO ENTER CAR"<<endl;
-    cout<<"PRESS 2 TO ENTER BIKE"<<endl;
+    cout<<"PRESS 1 TO ENTER CAR "<<endl;
+    cout<<"PRESS 2 TO ENTER BIKE "<<endl;
     cout<<"PRESS 3 TO ENTER RIKSHAW"<<endl;
     cout<<"PRESS 4 TO SHOW RECORDS "<<endl;
     cout<<"PRESS 5 TO DELETE "<<endl;
@@ -65,4 +65,5 @@ clrScrn();
 
 
     return 0;
+
 }
