@@ -2,7 +2,7 @@
 
 ## 📌 About the Project
 This project is a simple **Add To Cart System** developed in **C++**.  
-It allows users to add different types of vehicles to a cart and view all added records using a menu-driven console interface. The project focuses on conditional logic, loops, and basic program fl
+It allows users to add different types of vehicles to a cart and view all added records using a menu-driven console interface. The project focuses on conditional logic, loops, and basic program flo
 
 ## 🛠️ Technology Used
 - C++
